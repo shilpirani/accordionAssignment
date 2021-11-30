@@ -1,0 +1,7 @@
+.MuiGrid-root{
+    padding: 10px
+}
+.MuiButtonBase-root.MuiAccordionSummary-root.Mui-expanded {
+    background-color: darkgrey;
+
+}
